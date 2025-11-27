@@ -1,0 +1,80 @@
+[
+  {
+    "title": "Concert de Colinde",
+    "date": "2024-12-20",
+    "location": "Strada Foișorului 119",
+    "slides": [ {
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/SfTrifon.png"
+      },
+      {
+        "image": "/assets/imgpictura.png"
+      },{
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/Sfinti.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Ziua iei",
+    "date": "2024-06-20",
+    "location": "Strada Foișorului 119",
+    "slides": [ {
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/SfTrifon.png"
+      },
+      {
+        "image": "/assets/imgpictura.png"
+      },{
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/Sfinti.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Hramul Sf. Trifon",
+    "date": "2024-02-01",
+    "location": "Strada Foișorului 119",
+    "slides": [
+      {
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/SfTrifon.png"
+      },
+      {
+        "image": "/assets/imgpictura.png"
+      },{
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/Sfinti.jpg"
+      },
+      {
+        "image": "/assets/Sfinti.jpg"
+      }
+    ]
+  },
+   
+ 
+  {
+    "title": "Instalarea unui nou preot",
+    "date": "2025-11-30",
+    "hour": "12:00",
+    "location": "Strada Foișorului 119"
+  }
+]

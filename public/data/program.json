@@ -1,0 +1,69 @@
+{
+  "duminică": {
+    "data": "23 noiembrie",
+    "activitati": [
+      { "nume": "Utrenia", "ora": "8:00" },
+      { "nume": "Dumnezeiasca Liturghie", "ora": "" }
+    ]
+  },
+  "luni": {
+    "data": "24 noiembrie",
+    "activitati": [
+      { "nume": "Ceasul I", "ora": "6:00" },
+      { "nume": "Dumnezeiasca Liturghie", "ora": "" },
+      { "nume": "Paraclisul Sf. Mc. Trifon", "ora": "17:00" },
+      { "nume": "Rugăciuni pentru cei bolnavi", "ora": "" },
+      { "nume": "Taina Spovedaniei", "ora": "" }
+
+    ]
+  },
+  "marți": {
+    "data": "25 noiembrie",
+    "activitati": [
+      { "nume": "Ceasul I", "ora": "6:00" },
+      { "nume": "Dumnezeiasca Liturghie", "ora": "" },
+      { "nume": "Biserica este deschisă până la orele", "ora": "14:00" }
+    ]
+  },
+  "miercuri": {
+    "data": "26 noiembrie",
+    "activitati": [
+      { "nume": "Ceasul I", "ora": "6:00" },
+      { "nume": "Dumnezeiasca Liturghie", "ora": "" },
+      { "nume": "Biserica este deschisă până la orele", "ora": "14:00" }
+    ]
+  },
+  "joi": {
+    "data": "27 noiembrie",
+    "activitati": [
+      { "nume": "Ceasul I", "ora": "6:00" },
+      { "nume": "Dumnezeiasca Liturghie", "ora": "" },
+      { "nume": "Acatistul Maicii Domnului", "ora": "17:00" },
+      { "nume": "Taina Spovedaniei", "ora": "17:30" }
+
+    ]
+  },
+  "vineri": {
+    "data": "28 noiembrie",
+    "activitati": [
+      { "nume": "Ceasul I", "ora": "6:00" },
+      { "nume": "Dumnezeiasca Liturghie", "ora": "" },
+      { "nume": "Taina Sfântului Maslu", "ora": "17:00" }
+    ]
+  },
+  "sâmbătă": {
+    "data": "29 noiembrie",
+    "activitati": [
+      { "nume": "Dumnezeiasca Liturghie", "ora": "8:30" },
+      { "nume": "Pomenirea de obște a celor adormiți", "ora": "" },
+      { "nume": "Vecernia și Litia", "ora": "16:00" }
+    ]
+  },
+  "Duminică": {
+    "data": "30 noiembrie",
+    "activitati": [
+      { "nume": "Utrenia", "ora": "8:00" },
+      { "nume": "Dumnezeiasca Liturghie", "ora": "" }
+    ]
+  }
+}
